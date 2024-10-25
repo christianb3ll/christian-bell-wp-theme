@@ -1,0 +1,2 @@
+[04-Dec-2018 05:44:25] PHP Fatal error:  Call to undefined function  add_action() in /home4/chris385/public_html/wp-content/themes/christian-bell/inc/customizer.php on line 29
+[05-Dec-2018 01:15:18] PHP Fatal error:  Call to undefined function  add_action() in /home4/chris385/public_html/wp-content/themes/christian-bell/inc/customizer.php on line 29

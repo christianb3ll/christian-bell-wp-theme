@@ -1,0 +1,63 @@
+[04-Dec-2018 05:44:45] PHP Fatal error:  Call to undefined function  get_header() in /home4/chris385/public_html/wp-content/themes/christian-bell/archive.php on line 10
+[04-Dec-2018 05:44:50] PHP Fatal error:  Call to undefined function  get_header() in /home4/chris385/public_html/wp-content/themes/christian-bell/search.php on line 10
+[05-Dec-2018 01:15:27] PHP Fatal error:  Call to undefined function  get_header() in /home4/chris385/public_html/wp-content/themes/christian-bell/archive.php on line 10
+[17-Nov-2019 23:59:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[18-Nov-2019 10:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[13-Dec-2019 08:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[13-Dec-2019 18:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[15-Dec-2019 09:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[15-Dec-2019 19:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[12-Jan-2020 03:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[13-Jan-2020 17:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[15-Jan-2020 02:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[15-Jan-2020 19:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[15-Dec-2021 06:20:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10
+[15-Dec-2021 06:20:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home1/chris385/public_html/wp-content/themes/christian-bell/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/header.php on line 14
+[15-Dec-2021 06:20:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/archive.php on line 10
+[15-Dec-2021 06:20:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/index.php on line 15
+[15-Jun-2022 13:11:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/chris385/public_html/wp-content/themes/christian-bell/404.php on line 10

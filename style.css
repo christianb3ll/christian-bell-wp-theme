@@ -553,7 +553,6 @@ footer.site-footer {
   top: 20px;
   left: 20px;
   z-index: 1;
-  display: table;
 }
 
 .arrow-2:before{
